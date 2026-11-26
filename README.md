@@ -461,9 +461,9 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 - Data Visualization
 - Business Intelligence
 
-**GitHub:** https://github.com/YOUR_USERNAME
+**GitHub:** https://github.com/PANDIYAN04
 
-**LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE/
+**LinkedIn:** https://www.linkedin.com/in/pandiyan-m04
 
 ---
 
