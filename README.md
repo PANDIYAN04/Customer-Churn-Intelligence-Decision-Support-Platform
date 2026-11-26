@@ -217,6 +217,9 @@ Examples include:
 
 The **Logistic Regression** classifier was evaluated on the held-out test set using an optimized decision threshold (`0.59`) to balance churn detection sensitivity with false-positive control:
 
+<img width="1430" height="903" alt="Screenshot 2026-11-26 095312" src="https://github.com/user-attachments/assets/b5ad1ce3-f935-44d6-bbc0-aaa5596bbb28" />
+
+
 | Metric | Score |
 | :--- | :--- |
 | **Accuracy** | `0.7324` |
@@ -231,6 +234,9 @@ The **Logistic Regression** classifier was evaluated on the held-out test set us
 ---
 
 ## Interactive Churn Prediction Interface
+
+<img width="1791" height="938" alt="Screenshot 2026-11-26 095348" src="https://github.com/user-attachments/assets/3451febf-4949-4982-adf9-8b9597697725" />
+
 
 ![Customer Churn Prediction Input Interface]
 
