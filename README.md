@@ -14,6 +14,9 @@ This project uses historical customer data to develop a predictive Machine Learn
 
 Rather than providing only a churn prediction, the platform aims to transform customer data into meaningful business insights.
 
+### LIVE PREVIEW LINK  : https://customer-churn-intelligence-decision-support-platform-ibm.streamlit.app/
+
+
 ## 2. Business Problem
 
 Acquiring new customers is often more expensive than retaining existing ones.
